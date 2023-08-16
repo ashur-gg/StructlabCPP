@@ -6,7 +6,6 @@ using namespace std;
 // It calculates the area and perimeter of a box
 
 // Ashur Baroutta
-// 06/20/23
 
 // Fill in code to declare a structure named dimensions that
 // contains 2 float members, length and width
